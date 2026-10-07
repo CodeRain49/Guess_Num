@@ -1,2 +1,2 @@
 # Flamingo_Jump
-Physical Computing Lab project
+Physical Computing Project 2026 - IT KMITL
